@@ -1,0 +1,24 @@
+--[[
+   __                __                 
+  /  |              /  |                
+ _$$ |_     ______  $$ |____   ________ 
+/ $$   |   /      \ $$      \ /        |
+$$$$$$/    $$$$$$  |$$$$$$$  |$$$$$$$$/ 
+  $$ | __  /    $$ |$$ |  $$ |  /  $$/  
+  $$ |/  |/$$$$$$$ |$$ |__$$ | /$$$$/__ 
+  $$  $$/ $$    $$ |$$    $$/ /$$      |
+   $$$$/   $$$$$$$/ $$$$$$$/  $$$$$$$$/ 
+                                        
+                                        
+                                        
+
+Unlock Settings in Benchmark Mode Script by banz#1780 | https://discord.gg/TS9q7KuaCb
+https://www.roblox.com/games/6356806222/Lag-Test-2021
+]]--
+while wait() do
+if game.Players.LocalPlayer.PlayerGui.MainUI.PreferenceFrame.DisableFrame.Visible == true then
+game.Players.LocalPlayer.PlayerGui.MainUI.PreferenceFrame.DisableFrame.Visible = false
+else
+game.Players.LocalPlayer.PlayerGui.MainUI.PreferenceFrame.DisableFrame.Visible = false
+end
+end 
