@@ -1,0 +1,17 @@
+getgenv().dmsgs = {
+   deathmessages = {"i was lagging", "that wasnt fair", "i was afk", "you had an advantage", "BRO STOP HACKING", "bro im literally about yo report you", "i swear if you do it one more time i will ban you", "my dad owns roblox pls dont kill me i will literally ban u", "omg your literally such a hacker", "can you stop killing me", "ill tell my friends to mass dislike your games", "bro you literally have exploits", "ok i literally saw you flying", "bro i just saw u noclipping stop"}
+   }
+--[[
+   __                __                 
+  /  |              /  |                
+ _$$ |_     ______  $$ |____   ________ 
+/ $$   |   /      \ $$      \ /        |
+$$$$$$/    $$$$$$  |$$$$$$$  |$$$$$$$$/ 
+  $$ | __  /    $$ |$$ |  $$ |  /  $$/  
+  $$ |/  |/$$$$$$$ |$$ |__$$ | /$$$$/__ 
+  $$  $$/ $$    $$ |$$    $$/ /$$      |
+   $$$$/   $$$$$$$/ $$$$$$$/  $$$$$$$$/ 
+                                        
+Auto-Excuse by banz#1780 | https://discord.gg/nTDMYGh69z
+]]--
+loadstring(game:HttpGet("https://raw.githubusercontent.com/goldmoments/auto-excuse/main/Script"))("Auto-Excuse Script | discord.gg/nTDMYGh69z") 
